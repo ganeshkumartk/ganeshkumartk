@@ -6,7 +6,7 @@
     <br><br>
     Senior Software Engineer at <a href="https://www.indiahealthlink.com">India Health Link Ltd.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
     <br><br>
-    Smart Manufacturing Undergraduate at <a href="http://www.iiitdm.ac.in">IIITDM Kancheepuram</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+    Smart Manufacturing Graduand at <a href="http://www.iiitdm.ac.in">IIITDM Kancheepuram</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
     <br><br>
     I believe in a world where Briyani can solve any and all problems :grin:
     <br><br>
