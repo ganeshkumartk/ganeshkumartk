@@ -4,11 +4,11 @@
   <samp>
     Hi, I'm Ganesh Kumar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
     <br><br>
-    Senior Software Engineer at <a href="https://www.indiahealthlink.com">India Health Link Ltd.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+    Worked as Software Engineer at <a href="https://www.indiahealthlink.com">India Health Link Ltd.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
     <br><br>
-    Smart Manufacturing Graduand at <a href="http://www.iiitdm.ac.in">IIITDM Kancheepuram</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+    Smart Manufacturing Graduate from <a href="http://www.iiitdm.ac.in">IIITDM Kancheepuram</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
     <br><br>
-    I believe in a world where Briyani can solve any and all problems :grin:
+    I believe in a world where Pizza can solve any and all problems :grin:
     <br><br>
     P.S. I do know that HTML is not a programming language! :v:
   </samp>
@@ -57,7 +57,7 @@ const README = {
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ganeshkumartk"><img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a href="https://instagram.com/paarottagonist"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
+  <a href="https://instagram.com/cerelac.holmes_"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
   <a href="https://twitter.com/gaaneshaha"><img src="https://image.flaticon.com/icons/svg/174/174876.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
 
 <p align="center">
