@@ -3,11 +3,9 @@
   <br><br>
   <samp>
     Hi, I'm Ganesh Kumar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-
     <br><br>
     Pursuing Masters in Human-Computer Interaction from <a href="http://www.iupui.edu">IUPUI Indianapolis</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
     <br><br>
-
     Worked as Software Engineer at <a href="https://www.indiahealthlink.com">India Health Link Ltd.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
     <br><br>
     Smart Manufacturing Graduate from <a href="http://www.iiitdm.ac.in">IIITDM Kancheepuram</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
@@ -19,7 +17,7 @@
 
 <p align = "center">
 <details>
-<summary> <imsrc="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...   <i>(click to expand!)</i> </summary>
+<summary> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...   <i>(click to expand!)</i> </summary>
   
 ```javascript
 const README = {
