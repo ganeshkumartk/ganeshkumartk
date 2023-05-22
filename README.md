@@ -48,7 +48,7 @@ const README = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=coderganesh&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="coderganesh" /> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ganeshkumartk&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="coderganesh" /> </p>
 </details>
 </p>
 
