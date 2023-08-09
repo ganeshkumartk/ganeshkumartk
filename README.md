@@ -58,9 +58,9 @@ const README = {
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ganeshkumartk"><img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a href="https://instagram.com/cerelac.holmes_"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
-  <a href="https://twitter.com/gaaneshaha"><img src="https://image.flaticon.com/icons/svg/174/174876.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/ganeshkumartk"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+  <a href="https://instagram.com/punjirithanji_konjiko"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
+  <a href="https://twitter.com/gaaneshaha"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
 
 <p align="center">
   <i> Open to anything under the stars :sparkles: </i>
